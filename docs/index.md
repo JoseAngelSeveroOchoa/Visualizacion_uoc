@@ -27,6 +27,6 @@
 ## Pec 2: visualización 3 (Isotype & Unit charts)
 
 
-<div class="flourish-embed flourish-slope" data-src="visualisation/30742093"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30742093/thumbnail" width="100%" alt="slope visualization" /></noscript></div>
+<div class="flourish-embed flourish-pictogram" data-src="visualisation/30743070"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/30743070/thumbnail" width="100%" alt="pictogram visualization" /></noscript></div>
 
 ---
