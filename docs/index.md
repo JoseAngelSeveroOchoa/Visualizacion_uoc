@@ -20,7 +20,7 @@
 
 ## Pec 2: visualización 1 (Pyramid Charts) (en RStudio)
 
-![Pirámide de la población adulta en España según IMC, 2020](piramide_R.png)
+![Pirámide de la población adulta en España según IMC, 2020](img/piramide_R.png)
 
 
 
